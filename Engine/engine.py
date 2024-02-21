@@ -20,14 +20,6 @@ class Value:
     
      #_________________Instance Compatibility___________________________________
     
-    '''def check_comp(self,o):
-
-        if not isinstance(o,Value): 
-             o = Value(o)  
-        else:
-            pass
-        return o'''
-    
     def check_comp(self,other):
 
         other = Value(other) if not isinstance(other,Value) else other
