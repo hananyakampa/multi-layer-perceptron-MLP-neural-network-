@@ -1,1 +1,1 @@
-# multi-layer-perceptron-MLP-neural-network-
+# This project is a Python implementation of a simple multi-layer perceptron (MLP).The training loop demonstrates a basic stochastic gradient descent (SGD) approach.The project serves as a starting point for learning about neural network implementation from scratch.
